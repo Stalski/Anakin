@@ -1,0 +1,12 @@
+# Ignore "npm" node packages and files created by npm.
+node_modules
+npm*
+
+# Ignore Compass cache.
+.sass-cache
+
+# Ignore generated CSS map files.
+*.css.map
+
+# Ignore generated SASS documentation.
+sassdoc

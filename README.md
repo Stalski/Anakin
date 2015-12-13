@@ -30,3 +30,11 @@ Drupal Anakin theme
    understand the advantages or that approach as well as the disadvantages.
 
 - Review the preprocessors E.G (head tags, breakpoints, favicons, ...)
+
+
+
+#############################################
+# Install file                              #
+#############################################
+
+- run npm
