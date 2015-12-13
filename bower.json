@@ -1,0 +1,29 @@
+{
+  "name": "Anakin",
+  "version": "0.0.1",
+  "homepage": "https://github.com/stalski/Anakin",
+  "description": "Anakin is a Drupal base theme.",
+  "main": "gulpfile.js",
+  "keywords": [
+    "drupal",
+    "gulp",
+    "bower",
+    "responsive"
+  ],
+  "authors": [
+    "Stalski <Jochen Stals>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "font-awesome": "~4.4.0",
+    "underscore": "~1.8.3",
+    "respond": "~1.4.2"
+  }
+}

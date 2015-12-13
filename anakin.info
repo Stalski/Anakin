@@ -1,0 +1,57 @@
+name        = Anakin
+core        = 7.x
+
+; ========================================
+; Stylesheets
+; ========================================
+
+stylesheets[all][] = dist/css/base-styles.css
+stylesheets[all][] = dist/css/helper-styles.css
+stylesheets[all][] = dist/css/component-styles.css
+stylesheets[all][] = dist/css/layout-styles.css
+stylesheets[all][] = dist/css/print-styles.css
+
+; ========================================
+; Scripts
+; ========================================
+
+; Scripts are included as libraries.
+
+;scripts[] = dist/js/vendor/modernizr.min.js
+
+; ========================================
+; Regions
+; ========================================
+
+regions[header]         = Header
+regions[navigation]     = Navigation bar
+regions[highlighted]    = Highlighted
+regions[help]           = Help
+regions[content]        = Content
+regions[footer]         = Footer
+regions[bottom]         = Bottom bar
+regions[page_top]       = Page top
+regions[page_bottom]    = Page bottom
+
+; ========================================
+; Features
+; ========================================
+
+features[] = name
+features[] = slogan
+features[] = logo
+
+; ========================================
+; Settings
+; ========================================
+
+settings[toggle_favicon] = 0
+settings[favicon_path] = ""
+settings[favicon_upload] = ""
+settings[default_favicon] = 0
+
+; ========================================
+; Ocelot Settings
+; ========================================
+
+settings[minified] = 1
