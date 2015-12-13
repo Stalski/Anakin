@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "homepage": "https://github.com/stalski/Anakin",
   "description": "Anakin is a Drupal base theme.",
-  "main": "gulpfile.js",
+  "main": "gulp.handler.js",
   "keywords": [
     "drupal",
     "gulp",
